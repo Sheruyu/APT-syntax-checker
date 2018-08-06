@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin: auto;
+}
+
+textarea {
+  white-space: pre;
+  overflow-wrap: normal;
+  overflow-x: scroll;
+}
+
+#main {
+	padding: 10px;
+	width: 800px;
+	margin-top: 100px;
+	display:inline-block;
+	margin-left: 20%;
+}
+
+#inputdiv {
+	overflow: hidden;
+	float: left;
+	width: 450px
+}
+
+#instructions {
+	width: 200px;
+	padding: 10px;
+    border: 1px solid black;
+	margin-left: 440px;
+}
